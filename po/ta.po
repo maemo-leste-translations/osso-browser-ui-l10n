@@ -1,0 +1,858 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: osso-browser-ui 20100208121232\n"
+"Report-Msgid-Bugs-To: parazyd@dyne.org\n"
+"POT-Creation-Date: 2010.02.08 12:12+0200\n"
+"PO-Revision-Date: 2025-06-24 16:01+0000\n"
+"Last-Translator: தமிழ்நேரம் <anishprabu.t@gmail.com>\n"
+"Language-Team: Tamil <https://hosted.weblate.org/projects/maemo-leste/"
+"osso-browser-ui-l10n/ta/>\n"
+"Language: ta\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.13-dev\n"
+
+msgid "bookm_li_imported_bookmarksd"
+msgstr "இறக்குமதி செய்யப்பட்ட புக்மார்க்குகள் (%d)"
+
+msgid "bookm_ti_import_bookmarks"
+msgstr "புக்மார்க்குகளை இறக்குமதி செய்யுங்கள்"
+
+msgid "weba_ap_web_browser"
+msgstr "விரலிடைத் தோல்"
+
+msgid "weba_bd_cancel"
+msgstr "ரத்துசெய்"
+
+msgid "weba_bd_certificate"
+msgstr "சான்றிதழ்"
+
+msgid "weba_bd_close"
+msgstr "மூடு"
+
+msgid "weba_bd_cookie_conf_accept"
+msgstr "ஏற்றுக்கொள்"
+
+msgid "weba_bd_cookie_conf_reject"
+msgstr "நிராகரிக்கவும்"
+
+msgid "weba_bd_delete"
+msgstr "நீக்கு"
+
+msgid "weba_bd_details"
+msgstr "விவரங்கள்"
+
+msgid "weba_bd_download_open_with"
+msgstr "உடன் திறந்திருக்கும்"
+
+msgid "weba_bd_download_save_to"
+msgstr "சாதனத்தில் சேமிக்கவும்"
+
+msgid "weba_bd_downloads_pause"
+msgstr "இடைநிறுத்தம்"
+
+msgid "weba_bd_downloads_resume"
+msgstr "மீண்டும் தொடங்குங்கள்"
+
+msgid "weba_bd_geolocaton_allow"
+msgstr "இசைவு"
+
+msgid "weba_bd_geolocaton_always"
+msgstr "இந்த தளத்தை எப்போதும் அனுமதிக்கவும்"
+
+msgid "weba_bd_geolocaton_never"
+msgstr "இந்த தளத்தை ஒருபோதும் அனுமதிக்க வேண்டாம்"
+
+msgid "weba_bd_moveto"
+msgstr "நகர்த்தவும்"
+
+msgid "weba_bd_never"
+msgstr "ஒருபோதும்"
+
+msgid "weba_bd_not_now"
+msgstr "இப்போது இல்லை"
+
+msgid "weba_bd_ok"
+msgstr "சரி"
+
+msgid "weba_bd_select_clear_alll"
+msgstr "அனைத்தையும் அழிக்கவும்"
+
+msgid "weba_bd_stop"
+msgstr "நிறுத்து"
+
+msgid "weba_db_clear"
+msgstr "தெளிவான"
+
+msgid "weba_fi_address"
+msgstr "முகவரி"
+
+msgid "weba_fi_address_colon"
+msgstr "முகவரி"
+
+msgid "weba_fi_auhentication_password"
+msgstr "கடவுச்சொல்"
+
+msgid "weba_fi_auhentication_realm"
+msgstr "செய்தி"
+
+msgid "weba_fi_auhentication_site"
+msgstr "சேவையகம்"
+
+msgid "weba_fi_auhentication_username"
+msgstr "பயனர் பெயர்"
+
+msgid "weba_fi_authentivated"
+msgstr "அங்கீகரிக்கப்பட்ட அமர்வுகள்"
+
+msgid "weba_fi_browsing_his"
+msgstr "உலாவல் வரலாறு"
+
+msgid "weba_fi_cache"
+msgstr "கேச்"
+
+msgid "weba_fi_cookie_details_domain"
+msgstr "டொமைன்"
+
+msgid "weba_fi_cookie_details_expiration"
+msgstr "காலாவதியாகிறது"
+
+msgid "weba_fi_cookie_details_path"
+msgstr "பாதை"
+
+msgid "weba_fi_cookie_details_slash"
+msgstr "/"
+
+msgid "weba_fi_cookie_details_value"
+msgstr "மதிப்பு"
+
+msgid "weba_fi_cookies"
+msgstr "குக்கீகள்"
+
+msgid "weba_fi_downloads_name"
+msgstr "பெயர்"
+
+msgid "weba_fi_downloads_percentage"
+msgstr "பெறப்பட்டது"
+
+msgid "weba_fi_downloads_size"
+msgstr "அளவு"
+
+msgid "weba_fi_encoding"
+msgstr "குறியாக்கம்"
+
+msgid "weba_fi_geolocation"
+msgstr "புவிஇருப்பிட அனுமதிகள்"
+
+msgid "weba_fi_image_details_dimensions"
+msgstr "பரிமாணங்கள்"
+
+msgid "weba_fi_location"
+msgstr "இடம்"
+
+msgid "weba_fi_name"
+msgstr "பெயர்"
+
+msgid "weba_fi_name_colon"
+msgstr "பெயர்"
+
+msgid "weba_fi_open_with_colon"
+msgstr "உடன் திறந்திருக்கும்:"
+
+msgid "weba_fi_page_details_page_title"
+msgstr "தலைப்பு"
+
+msgid "weba_fi_page_details_security"
+msgstr "பாதுகாப்பு"
+
+msgid "weba_fi_page_details_verification"
+msgstr "சரிபார்ப்பு"
+
+msgid "weba_fi_saved_pass"
+msgstr "சேமித்த கடவுச்சொற்கள்"
+
+msgid "weba_fi_select_username_title"
+msgstr "பயனர் பெயரைத் தேர்ந்தெடுக்கவும்"
+
+msgid "weba_fi_settings_general_maxcache"
+msgstr "நினைவக கேச் அளவு"
+
+msgid "weba_fi_settings_plug_ins_enable_java_script"
+msgstr "சாவாச்கிரிப்டை இயக்கவும்"
+
+msgid "weba_fi_settings_privacy_accept_cookies"
+msgstr "குக்கீகளை ஏற்றுக்கொள்ளுங்கள்"
+
+msgid "weba_fi_settings_privacy_enable_pop_up_windows"
+msgstr "திறந்த பாப்-அப்கள்"
+
+msgid "weba_fi_settings_privacy_password"
+msgstr "கடவுச்சொல் சேமிப்பை இயக்கவும்"
+
+msgid "weba_fi_size_colon"
+msgstr "அளவு"
+
+msgid "weba_fi_type_colon"
+msgstr "வகை"
+
+msgid "weba_ib_closing_a_window_background"
+msgstr "பின்னணியில் ஒரு சாளரத்தை மூடுவது"
+
+msgid "weba_ib_downloading_complete"
+msgstr "%s பதிவிறக்குவது முடிந்தது"
+
+msgid "weba_ib_enter_location"
+msgstr "முதலில் முகவரியை உள்ளிடவும்"
+
+msgid "weba_ib_flash_full"
+msgstr "முழு திரை பயன்முறையிலிருந்து வெளியேற பேக்ச்பேசை அழுத்தவும்"
+
+msgid "weba_ib_invalid_username_or_password"
+msgstr "தவறான பயனர் பெயர் அல்லது கடவுச்சொல்"
+
+msgid "weba_ib_opening_new_window"
+msgstr "புதிய சாளரத்தைத் திறக்கிறது"
+
+msgid "weba_ib_pop_up_window_blocked"
+msgstr "பாப்-அப் சாளரம் தடுக்கப்பட்டது"
+
+msgid "weba_ib_secure_server"
+msgstr "%s %s ஆல் சரிபார்க்கப்படுகின்றன"
+
+msgid "weba_ib_select_update_first"
+msgstr "முதலில் புதுப்பிப்பைத் தேர்ந்தெடுக்கவும்"
+
+msgid "weba_ib_some_cache_items_cannot_be_deleted"
+msgstr "சில கேச் உருப்படிகள் பயன்பாட்டில் உள்ளன. நீக்க முடியவில்லை."
+
+msgid "weba_ib_target_not"
+msgstr "இலக்கு கோப்பு கிடைக்கவில்லை"
+
+msgid "weba_ib_upload_failed"
+msgstr "பதிவேற்றம் தோல்வியடைந்தது"
+
+msgid "weba_li_history_list_item_name"
+msgstr "%s"
+
+msgid "weba_li_history_list_nr"
+msgid_plural "weba_li_history_list_nrs"
+msgstr[0] "%d உருப்படி"
+msgstr[1] "%d உருப்படிகள்"
+
+msgid "weba_li_history_list_today"
+msgstr "இன்று"
+
+msgid "weba_li_history_list_yesterday"
+msgstr "நேற்று"
+
+msgid "weba_me_add"
+msgstr "முகவரியைச் சேர்க்கவும்"
+
+msgid "weba_me_add_bookmark"
+msgstr "புக்மார்க்குகளில் சேர்க்கவும்"
+
+msgid "weba_me_add_home"
+msgstr "டெச்க்டாப்பில் குறுக்குவழியைச் சேர்க்கவும்"
+
+msgid "weba_me_add_link"
+msgstr "புக்மார்க்கைச் சேர்க்கவும்"
+
+msgid "weba_me_adjustview"
+msgstr "பார்வையை சரிசெய்யவும்"
+
+msgid "weba_me_clear_privatedata"
+msgstr "தனிப்பட்ட தரவை அழிக்கவும்"
+
+msgid "weba_me_complete_his"
+msgstr "முழுமையான உலாவல் வரலாறு"
+
+msgid "weba_me_components"
+msgstr "துணை நிரல்கள்"
+
+msgid "weba_me_copy"
+msgstr "நகலெடு"
+
+msgid "weba_me_copy_address"
+msgstr "இணைப்பு முகவரியை நகலெடுக்கவும்"
+
+msgid "weba_me_copy_img_address"
+msgstr "பட முகவரியை நகலெடுக்கவும்"
+
+msgid "weba_me_details"
+msgstr "விவரங்கள்"
+
+msgid "weba_me_downloads"
+msgstr "பதிவிறக்கங்கள்"
+
+msgid "weba_me_find_on_page"
+msgstr "பக்கத்தில் காண்க"
+
+msgid "weba_me_load_img"
+msgstr "படத்தை ஏற்றவும்"
+
+msgid "weba_me_new_window"
+msgstr "புதிய சாளரம்"
+
+msgid "weba_me_open_bookmark_new_window"
+msgstr "புதிய சாளரத்தில் திறக்கவும்"
+
+msgid "weba_me_open_in_new_window"
+msgstr "புதிய சாளரத்தில் திறக்கவும்"
+
+msgid "weba_me_open_link_new_window"
+msgstr "புதிய சாளரத்தில் இணைப்பைத் திறக்கவும்"
+
+msgid "weba_me_openfile"
+msgstr "கோப்பை திற"
+
+msgid "weba_me_options"
+msgstr "விருப்பங்கள்"
+
+msgid "weba_me_paste"
+msgstr "ஒட்டு"
+
+msgid "weba_me_reload"
+msgstr "ஏற்றவும்"
+
+msgid "weba_me_rss"
+msgstr "ஊட்டத்திற்கு குழுசேரவும்: %s"
+
+msgid "weba_me_save_img"
+msgstr "படத்தை சேமிக்கவும்"
+
+msgid "weba_me_save_link_as"
+msgstr "இணைப்பை சேமிக்கவும்"
+
+msgid "weba_me_save_page"
+msgstr "பக்கத்தை சேமிக்கவும்"
+
+msgid "weba_me_settings"
+msgstr "அமைப்புகள்"
+
+msgid "weba_nc_change_stored_password"
+msgstr "%s க்கு சேமிக்கப்பட்ட கடவுச்சொல்லை மாற்றவா?"
+
+msgid "weba_nc_close"
+msgstr ""
+"வலைப்பக்கம் பதிலளிக்கவில்லை. மூடுவதற்கு சாளரம்?\n"
+" சேமிக்கப்படாத தரவு இழக்கப்படலாம்."
+
+msgid "weba_nc_close_app_pause_load"
+msgstr ""
+"பயன்பாட்டை மூடு மற்றும்\n"
+" நடந்துகொண்டிருக்கும் பதிவிறக்கத்தை இடைநிறுத்தவா?\n"
+" %s"
+
+msgid "weba_nc_close_app_pause_loads"
+msgstr ""
+"பயன்பாட்டை மூடு மற்றும்\n"
+" தற்போதைய பதிவிறக்கங்களை இடைநிறுத்தவா?"
+
+msgid "weba_nc_delete_dowload"
+msgstr ""
+"பதிவிறக்கத்தை நீக்கவா?\n"
+" %s"
+
+msgid "weba_nc_geolocaton_dis"
+msgstr "உங்கள் இருப்பிடத்தை அறிய இந்த தளத்தை அனுமதிக்கவா?"
+
+msgid "weba_nc_remember_credentials"
+msgstr "இந்த தளத்திற்கான சான்றுகளை நினைவில் கொள்கிறீர்களா?"
+
+msgid "weba_save_as"
+msgstr "பக்கத்தை சேமிக்கவும்"
+
+msgid "weba_search_list"
+msgstr "கூகிள் தேடல்: '%s'"
+
+msgid "weba_ti_add_adress"
+msgstr "முகவரியைச் சேர்க்கவும்"
+
+msgid "weba_ti_add_bookmark_title"
+msgstr "புக்மார்க்கைச் சேர்க்கவும்"
+
+msgid "weba_ti_adjuvi_met_showimg"
+msgstr "படங்களைக் காட்டு"
+
+msgid "weba_ti_adjuvi_title"
+msgstr "பார்வையை சரிசெய்யவும்"
+
+msgid "weba_ti_auhentication_title"
+msgstr "ஏற்பு"
+
+msgid "weba_ti_bookmarks"
+msgstr "புக்மார்க்குகள்"
+
+msgid "weba_ti_bookmarks_portrait"
+msgstr "புக்மார்க்குகள்"
+
+msgid "weba_ti_clear_privatedata"
+msgstr "தனிப்பட்ட தரவை அழிக்கவும்"
+
+msgid "weba_ti_compbrhis"
+msgstr "முழுமையான உலாவல் வரலாறு"
+
+msgid "weba_ti_cookie_conf"
+msgstr "குக்கீ உறுதிப்படுத்தல்"
+
+msgid "weba_ti_cookie_conf_accept_nor"
+msgstr ""
+"குக்கீகளை ஏற்றுக்கொள்?\n"
+"%s"
+
+msgid "weba_ti_cookie_conf_server"
+msgstr "ஒரே சேவையகத்திலிருந்து அனைத்து குக்கீகளுக்கும் பொருந்தும்"
+
+msgid "weba_ti_cookie_details_title"
+msgstr "குக்கீ விவரங்கள்"
+
+msgid "weba_ti_deletebook"
+msgstr "புக்மார்க்குகளைத் தேர்ந்தெடுக்கவும்"
+
+msgid "weba_ti_download_file_title"
+msgstr "கோப்பு பதிவிறக்கம்"
+
+msgid "weba_ti_downloads_title"
+msgstr "பதிவிறக்கங்கள்"
+
+msgid "weba_ti_edit_bookmark_title"
+msgstr "புக்மார்க்கைத் திருத்து"
+
+msgid "weba_ti_edit_folder"
+msgstr "கோப்புறையைத் திருத்து"
+
+msgid "weba_ti_foldername"
+msgstr "%s"
+
+msgid "weba_ti_geolocoation"
+msgstr "உலகம் நீக்கம்"
+
+msgid "weba_ti_image_details_title"
+msgstr "பட விவரங்கள்"
+
+msgid "weba_ti_java_script_confirmation"
+msgstr "சாவாச்கிரிப்ட் உறுதிப்படுத்தல்"
+
+msgid "weba_ti_java_script_prompt"
+msgstr "சாவாச்கிரிப்ட் வரியில்"
+
+msgid "weba_ti_javas_alert"
+msgstr "சாவாச்கிரிப்ட் எச்சரிக்கை"
+
+msgid "weba_ti_options"
+msgstr "விருப்பங்கள்"
+
+msgid "weba_ti_page_details_title"
+msgstr "பக்க விவரங்கள்"
+
+msgid "weba_ti_recenthis"
+msgstr "அண்மைக் கால வரலாறு"
+
+msgid "weba_ti_remeber_credentials"
+msgstr "கடவுச்சொல்லை நினைவில் கொள்ளுங்கள்"
+
+msgid "weba_ti_select_file_title"
+msgstr "கோப்பைத் தேர்ந்தெடு"
+
+msgid "weba_ti_settings_browser"
+msgstr "உலாவி"
+
+msgid "weba_ti_settings_content"
+msgstr "உள்ளடக்கம்"
+
+msgid "weba_ti_settings_title"
+msgstr "அமைப்புகள்"
+
+msgid "weba_ti_texlist_single"
+msgstr "விருப்பத்தைத் தேர்ந்தெடுக்கவும்"
+
+msgid "weba_ti_text"
+msgstr "உரை அளவு"
+
+msgid "weba_ti_textlist_multi"
+msgstr "விருப்பங்களைத் தேர்ந்தெடுக்கவும்"
+
+msgid "weba_ti_webstart"
+msgstr "விரலிடைத் தோல்"
+
+msgid "weba_ti_webstart_portrait"
+msgstr "விரலிடைத் தோல்"
+
+msgid "weba_va_always"
+msgstr "எப்போதும்"
+
+msgid "weba_va_download_from"
+msgstr "இருந்து"
+
+msgid "weba_va_downloads_rec_kb"
+msgstr "%d kb"
+
+msgid "weba_va_downloads_rec_percent"
+msgstr "%d %%"
+
+msgid "weba_va_downloads_size_kb"
+msgstr "%.2f தோராயமாக"
+
+msgid "weba_va_downloads_size_unknown"
+msgstr "-"
+
+msgid "weba_va_encoding_big5"
+msgstr "சீன, பாரம்பரிய (பெரிய 5 I/II)"
+
+msgid "weba_va_encoding_euc_tw"
+msgstr "சீன, பாரம்பரிய (EUC-TW)"
+
+msgid "weba_va_encoding_gb_18030"
+msgstr "சீன, எளிமைப்படுத்தப்பட்ட (சிபி 18030)"
+
+msgid "weba_va_encoding_iso_2022_cn"
+msgstr "சீன, எளிமைப்படுத்தப்பட்ட (ஐஎச்ஓ -2022-சிஎன்)"
+
+msgid "weba_va_encoding_iso_8859_1"
+msgstr "லத்தீன் (ஐஎச்ஓ 8859-1)"
+
+msgid "weba_va_encoding_iso_8859_15"
+msgstr "லத்தீன் நீட்டிக்கப்பட்ட (ஐஎச்ஓ -8859-15)"
+
+msgid "weba_va_encoding_iso_8859_2"
+msgstr "நடு ஐரோப்பிய (ஐஎச்ஓ 8859-2)"
+
+msgid "weba_va_encoding_iso_8859_7"
+msgstr "கிரேக்கம் (ஐஎச்ஓ 8859-7)"
+
+msgid "weba_va_encoding_iso_8859_9"
+msgstr "துருக்கிய (ஐஎச்ஓ 8859-9)"
+
+msgid "weba_va_encoding_utf_16"
+msgstr "யூனிகோட் (யுடிஎஃப் -16)"
+
+msgid "weba_va_encoding_utf_8"
+msgstr "யூனிகோட் (யுடிஎஃப் -8)"
+
+msgid "weba_va_encoding_win_1250"
+msgstr "நடு ஐரோப்பிய (விண்டோச் -1250)"
+
+msgid "weba_va_encoding_win_1251"
+msgstr "சிரிலிக் (விண்டோச் -1251)"
+
+msgid "weba_va_encoding_win_1253"
+msgstr "கிரேக்கம் (விண்டோச் -1253)"
+
+msgid "weba_va_encoding_win_1254"
+msgstr "துருக்கிய (விண்டோச் -1254)"
+
+msgid "weba_va_encoding_win_koi_8r"
+msgstr "சிரிலிக் (கோய் -8 ஆர்)"
+
+msgid "weba_va_high"
+msgstr "உயர்ந்த"
+
+msgid "weba_va_image_details_dim_px"
+msgstr "%1$d ஃச் %2$d படப்புள்ளிகள்"
+
+msgid "weba_va_larger"
+msgstr "பெரிய"
+
+msgid "weba_va_largest"
+msgstr "மிகப் பெரியது"
+
+msgid "weba_va_loaded"
+msgstr "ஏற்கனவே தற்காலிக சேமிப்பில்"
+
+msgid "weba_va_low"
+msgstr "குறைந்த"
+
+msgid "weba_va_medium"
+msgstr "சராசரி"
+
+msgid "weba_va_modal_dialog_abort"
+msgstr "கருக்கலைப்பு"
+
+msgid "weba_va_modal_dialog_cancel"
+msgstr "ரத்துசெய்"
+
+msgid "weba_va_modal_dialog_ignore"
+msgstr "புறக்கணிக்கவும்"
+
+msgid "weba_va_modal_dialog_no"
+msgstr "இல்லை"
+
+msgid "weba_va_modal_dialog_ok"
+msgstr "சரி"
+
+msgid "weba_va_modal_dialog_retry"
+msgstr "மீண்டும் முயற்சிக்கிறீர்களா?"
+
+msgid "weba_va_modal_dialog_yes"
+msgstr "ஆம்"
+
+msgid "weba_va_never"
+msgstr "ஒருபோதும்"
+
+msgid "weba_va_normal"
+msgstr "சாதாரண"
+
+msgid "weba_va_not_secure"
+msgstr "பாதுகாப்பான பக்கம் அல்ல"
+
+msgid "weba_va_page_details_size_kb"
+msgstr "%.2f தோராயமாக"
+
+msgid "weba_va_page_not_verified"
+msgstr "வலைத்தள அடையாளம் சரிபார்க்கப்படவில்லை"
+
+msgid "weba_va_save_complete"
+msgstr "வலைப்பக்கத்தை முடிக்கவும்"
+
+msgid "weba_va_save_html_only"
+msgstr "உஉகுமொ மட்டும்"
+
+msgid "weba_va_saved_password"
+msgstr "(சேமித்த கடவுச்சொல்)"
+
+msgid "weba_va_settings_autofocus"
+msgstr "ஆட்டோ கவனம் முகவரி புலம்"
+
+msgid "weba_va_settings_fullscreen"
+msgstr "முழுத் திரையில் திறக்கவும்"
+
+msgid "weba_va_settings_general_maxc_1024"
+msgstr "10 எம்பி"
+
+msgid "weba_va_settings_general_maxc_2048"
+msgstr "20 எம்பி"
+
+msgid "weba_va_settings_general_maxc_4096"
+msgstr "40 எம்பி"
+
+msgid "weba_va_settings_general_maxc_512"
+msgstr "5 எம்பி"
+
+msgid "weba_va_settings_general_maxc_aut"
+msgstr "தானியங்கி"
+
+msgid "weba_va_settings_general_maxc_off"
+msgstr "அணை"
+
+msgid "weba_va_settings_geolocation"
+msgstr "உலகம் நீக்கம்"
+
+msgid "weba_va_settings_hwkeys"
+msgstr "அதிகரிப்பு மற்றும் குறைப்பு விசைகள் பயன்படுத்தவும்"
+
+msgid "weba_va_settings_hwkeys_volume"
+msgstr "தொகுதி"
+
+msgid "weba_va_settings_hwkeys_zoom"
+msgstr "பெரிதாக்குதல்"
+
+msgid "weba_va_settings_javaflash"
+msgstr "சாவாச்கிரிப்ட் இடைநிறுத்த அனுமதிக்கவும்"
+
+msgid "weba_va_settings_javaflash_immediately"
+msgstr "உடனடியாக"
+
+msgid "weba_va_settings_javaflash_in15"
+msgstr "15 விநாடிகளுக்குப் பிறகு"
+
+msgid "weba_va_settings_javaflash_in30"
+msgstr "30 விநாடிகளுக்குப் பிறகு"
+
+msgid "weba_va_settings_javaflash_in60"
+msgstr "60 விநாடிகளுக்குப் பிறகு"
+
+msgid "weba_va_settings_javaflash_not"
+msgstr "இடைநிறுத்த வேண்டாம்"
+
+msgid "weba_va_settings_portrait"
+msgstr "சுழற்சியை இயக்கவும்"
+
+msgid "weba_va_settings_privacy_accept_cookies_always"
+msgstr "எப்போதும்"
+
+msgid "weba_va_settings_privacy_accept_cookies_askfirst"
+msgstr "முதலில் கேளுங்கள்"
+
+msgid "weba_va_settings_privacy_accept_cookies_never"
+msgstr "ஒருபோதும்"
+
+msgid "weba_va_settings_privacy_enable_pop_up_windows_always"
+msgstr "எப்போதும்"
+
+msgid "weba_va_settings_privacy_enable_pop_up_windows_askfirst"
+msgstr "மட்டுமே கோரப்பட்டது"
+
+msgid "weba_va_settings_privacy_enable_pop_up_windows_never"
+msgstr "ஒருபோதும்"
+
+msgid "weba_yi_hisfolder"
+msgstr "%s"
+
+msgid "webb_fi_bookmark_details_add"
+msgstr "சேர்க்கப்பட்டது"
+
+msgid "webb_fi_bookmark_details_use"
+msgstr "கடைசியாக பயன்படுத்தப்பட்டது"
+
+msgid "webb_fi_folder_details_contents"
+msgstr "உள்ளடக்கங்கள்"
+
+msgid "webb_fi_folder_details_contents_01"
+msgstr "1 புக்மார்க்கு"
+
+msgid "webb_fi_folder_details_contents_02"
+msgstr "2 புக்மார்க்குகள்"
+
+msgid "webb_fi_folder_details_contents_0n"
+msgstr "%d புக்மார்க்குகள்"
+
+msgid "webb_fi_folder_details_contents_10"
+msgstr "1 கோப்புறை"
+
+msgid "webb_fi_folder_details_contents_1n"
+msgstr "1 கோப்புறை, %d புக்மார்க்குகள்"
+
+msgid "webb_fi_folder_details_contents_20"
+msgstr "2 கோப்புறைகள்"
+
+msgid "webb_fi_folder_details_contents_2n"
+msgstr "2 கோப்புறைகள், %d புக்மார்க்குகள்"
+
+msgid "webb_fi_folder_details_contents_bookmark"
+msgid_plural "webb_fi_folder_details_contents_bookmars"
+msgstr[0] "%d புக்மார்க்கு"
+msgstr[1] "%d புக்மார்க்குகள்"
+
+msgid "webb_fi_folder_details_contents_folder"
+msgid_plural "webb_fi_folder_details_contents_folders"
+msgstr[0] "%d கோப்புறை "
+msgstr[1] "%d கோப்புறைகள் "
+
+msgid "webb_fi_folder_details_contents_n0"
+msgstr "%d கோப்புறைகள்"
+
+msgid "webb_fi_folder_details_contents_n1"
+msgstr "%d கோப்புறைகள், 1 புக்மார்க்கு"
+
+msgid "webb_fi_folder_details_contents_n2"
+msgstr "%d கோப்புறைகள், 2 புக்மார்க்குகள்"
+
+msgid "webb_fi_folder_details_contents_nn"
+msgstr "%d கோப்புறைகள், %d புக்மார்க்குகள்"
+
+msgid "webb_fi_folder_details_date"
+msgstr "சேர்க்கப்பட்டது"
+
+msgid "webb_fi_folder_details_time"
+msgstr "மாற்றியமைக்கப்பட்ட"
+
+msgid "webb_folder_imported_bookmarks"
+msgstr "இறக்குமதி செய்யப்பட்ட புக்மார்க்குகள்"
+
+msgid "webb_folder_operator"
+msgstr "ஆபரேட்டர் புக்மார்க்குகள்"
+
+msgid "webb_folder_root_user"
+msgstr "என் புக்மார்க்குகள்"
+
+msgid "webb_ia_cookie_after_sessions_ends"
+msgstr "அமர்வு முடிந்ததும்"
+
+msgid "webb_ia_no_bookmarks_folders_to_show"
+msgstr "(புக்மார்க்குகள்/கோப்புறைகள் இல்லை)"
+
+msgid "webb_ia_no_description"
+msgstr "(விளக்கம் இல்லை)"
+
+msgid "webb_ia_no_downloads"
+msgstr "(கோப்புகள் பதிவிறக்கவில்லை)"
+
+msgid "webb_ia_none"
+msgstr "எதுவுமில்லை"
+
+msgid "webb_ia_not_available"
+msgstr "கிடைக்கவில்லை"
+
+msgid "webb_ia_not_defined_in_html"
+msgstr "(பெயரிடப்படாதது)"
+
+msgid "webb_ia_unknown"
+msgstr "தெரியவில்லை"
+
+msgid "webb_ib_this_folder_cannot_be_renamed"
+msgstr "தேர்ந்தெடுக்கப்பட்ட கோப்புறையை மறுபெயரிட முடியவில்லை"
+
+msgid "webb_me_delete"
+msgstr "நீக்கு"
+
+msgid "webb_me_details"
+msgstr "விவரங்கள்"
+
+msgid "webb_me_file_edit"
+msgstr "தொகு"
+
+msgid "webb_me_impor"
+msgstr "புக்மார்க்குகளை இறக்குமதி செய்யுங்கள்"
+
+msgid "webb_me_move_to"
+msgstr "நகர்த்தவும்"
+
+msgid "webb_nc_delete_item_nr"
+msgid_plural "webb_nc_delete_item_nrs"
+msgstr[0] "'%s' ஐ நீக்கவா?"
+msgstr[1] "தேர்ந்தெடுக்கப்பட்ட %d உருப்படிகளை நீக்கவா?"
+
+msgid "webb_nc_replace_item_nr"
+msgid_plural "webb_nc_replace_item_nrs"
+msgstr[0] "அதே பெயரில் இருக்கும் உருப்படியை மாற்றவா?"
+msgstr[1] "அதே பெயரில் இருக்கும் %d உருப்படிகளை மாற்றவா?"
+
+msgid "webb_ni_change_save_target_location"
+msgstr ""
+"தேர்ந்தெடுக்கப்பட்ட இடத்திற்கு சேமிக்க முடியவில்லை.\n"
+" சாதன நினைவகத்தில் சேமிக்கவா?"
+
+msgid "webb_ni_downloading_paused"
+msgstr ""
+"சாதனத்தில் போதுமான இலவச நினைவகம் இல்லை.\n"
+" இடைநிறுத்தப்பட்ட பதிவிறக்கம்."
+
+msgid "webb_ni_invalid_bookmarks_file"
+msgstr ""
+"தவறான புத்தகக்குறி கோப்பு.\n"
+" புக்மார்க்குகள் இறக்குமதி செய்யப்படவில்லை."
+
+msgid "webb_ni_resuming_failed"
+msgstr ""
+"பதிவிறக்கம் மீண்டும் தோல்வியடைந்தது.\n"
+" பதிவிறக்கத்தை மறுதொடக்கம் செய்யவா?"
+
+msgid "webb_ni_target_folder_not_available"
+msgstr ""
+"இலக்கு கோப்புறை கிடைக்கவில்லை.\n"
+" மற்றொரு கோப்புறையில் சேமிக்கவும்."
+
+msgid "webb_ni_target_location_not_available"
+msgstr ""
+"இலக்கு இடம் கிடைக்கவில்லை.\n"
+" உள்ளக நினைவகத்தை சேமிக்கவும்."
+
+msgid "webb_nw_deleting_bookmark"
+msgstr "நீக்குதல்"
+
+msgid "webb_nw_importing_bookmark"
+msgstr "இறக்குமதி"
+
+msgid "webb_nw_moving_bookmark"
+msgstr "நகரும்"
+
+msgid "webb_ti_bookmark_details_title"
+msgstr "புக்மார்க்கு விவரங்கள்"
+
+msgid "webb_ti_folder_details"
+msgstr "கோப்புறை விவரங்கள்"
+
+msgid "webb_ti_selectbok"
+msgstr "புக்மார்க்குகளைத் தேர்ந்தெடுக்கவும்"
